@@ -455,7 +455,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/239013338_4337909702941377_1612253747279315165_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=4ri35QBUEnsAX_dGo6o&_nc_ht=scontent.fotp3-3.fna&oh=00_AfDawqgYwdQMbzrBEQUkAYTehiesdsyxSlqCKubC8UFjcQ&oe=646A61D7") top center;
   background-size: cover;
   position: relative;
   padding: 0;
