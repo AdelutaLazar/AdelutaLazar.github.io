@@ -1054,7 +1054,7 @@ section {
 
 .events::before {
   content: "";
-  background-color: rgba(0, 0, 0, 0.578);
+  background-color: rgba(0, 0, 0, 0.782);
   position: absolute;
   top: 0;
   right: 0;
