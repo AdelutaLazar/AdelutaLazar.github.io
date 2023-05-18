@@ -1085,9 +1085,9 @@ section {
   color: #fff;
 }
 .btn-ghost {
-  background-color: #cda45e;
-  color: #000;
-  border: 1px solid #000;
+  background-color: #cda45e00;
+  color: #cda45e;
+  border: 1px solid #cda45e;
   font-style: italic!important;
 }
 
