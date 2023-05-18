@@ -1047,14 +1047,14 @@ section {
 # Events
 --------------------------------------------------------------*/
 .events {
-  background: url(https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/312404636_5621695604562774_5694075923177837195_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=W5wCyuFkwMIAX-wiMvE&_nc_ht=scontent.fotp3-4.fna&oh=00_AfCQvE7yof7Bj4xwxGzNA-lyxCI5PVKAOhO5DeEo4RqGxA&oe=646AEF4C) center center no-repeat;
+  background: url(https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/312463184_5621676871231314_1529529492007455009_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=_LRRX23fl1UAX_rH2Md&_nc_ht=scontent.fotp3-3.fna&oh=00_AfCDEhtFa52XNzpqITSEuu0WvUfqQgE7pqcaJ7GPBSJUFA&oe=646A94C6) center center no-repeat;
   background-size: cover;
   position: relative;
 }
 
 .events::before {
   content: "";
-  background-color: rgba(0, 0, 0, 0.058);
+  background-color: rgba(0, 0, 0, 0.578);
   position: absolute;
   top: 0;
   right: 0;
@@ -1085,9 +1085,10 @@ section {
   color: #fff;
 }
 .btn-ghost {
-  background-color: #fff;
+  background-color: #cda45e;
   color: #000;
   border: 1px solid #000;
+  font-style: italic!important;
 }
 
 .events .event-item h3 {
@@ -1119,7 +1120,7 @@ section {
 .events .event-item ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #000000;
+  color: #cda45e;
 }
 
 .events .event-item p:last-child {
@@ -1139,7 +1140,7 @@ section {
 }
 
 .events .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #000000;
+  background-color: #cda45e;
 }
 
 /*--------------------------------------------------------------
