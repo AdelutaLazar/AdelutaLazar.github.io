@@ -454,8 +454,8 @@ h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 100vh;
-  background: url("https://scontent.fotp3-4.fna.fbcdn.net/v/t1.6435-9/142555570_3743026132429740_3047781288296611740_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ytFeRJjpigMAX8NjcyY&_nc_ht=scontent.fotp3-4.fna&oh=00_AfABJ66eVAl24HwXvHSsTNP5yKRNHTYEh5WSEkRvRUwyUQ&oe=648D9A3A") top center;
+  height: 140vh;
+  background: url("https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/314921224_5675293505869650_6760014445482567026_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=nJPsoGHPj2UAX9KXT_T&_nc_ht=scontent.fotp3-4.fna&oh=00_AfCe68qfux1bGoFopZaCzK2Zz-7aOOYN94LZo0YDEfnRrg&oe=646B722B") top center;
   background-size: cover;
   position: relative;
   padding: 0;
@@ -1047,7 +1047,7 @@ section {
 # Events
 --------------------------------------------------------------*/
 .events {
-  background: url(https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/312463184_5621676871231314_1529529492007455009_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=_LRRX23fl1UAX9WWTBY&_nc_ht=scontent.fotp3-3.fna&oh=00_AfBiJ0mNGWn0ThLChSz4z4BOZl1JkUzF2_QgTM_JTO-jow&oe=646A94C6) center center no-repeat;
+  background: url(https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/312404636_5621695604562774_5694075923177837195_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=W5wCyuFkwMIAX-wiMvE&_nc_ht=scontent.fotp3-4.fna&oh=00_AfCQvE7yof7Bj4xwxGzNA-lyxCI5PVKAOhO5DeEo4RqGxA&oe=646AEF4C) center center no-repeat;
   background-size: cover;
   position: relative;
 }
